@@ -14,7 +14,7 @@ var mainWin = Titanium.UI.createWindow ({
 // Create the tab "mainTab"
 var mainTab = Titanium.UI.createTab({
   title  : "Twitter", // Title of the tab - "Twitter"
-  icon   : "KS_nav_mashup.png", // Icon for tab - Included in the source files
+  icon   : "111-user.png", // Icon for tab - Included in the source files
   window : mainWin  // We will create the window "mainWin"
 });
 
